@@ -110,7 +110,7 @@
                 {
                     "name": "",
                     "id": "7cf735d9-4eca-42cc-839d-fa0d34a1bf2b",
-                    "path": "<Mouse>/leftButton",
+                    "path": "<Mouse>/rightButton",
                     "interactions": "",
                     "processors": "",
                     "groups": "MouseAndKeyboard",
@@ -121,7 +121,7 @@
                 {
                     "name": "",
                     "id": "a3bcc545-2371-4ab8-ae20-5a0c7a177205",
-                    "path": "<Mouse>/rightButton",
+                    "path": "<Mouse>/leftButton",
                     "interactions": "Tap",
                     "processors": "",
                     "groups": "MouseAndKeyboard",
